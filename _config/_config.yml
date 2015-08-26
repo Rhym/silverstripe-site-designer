@@ -1,5 +1,3 @@
 LeftAndMain:
   extensions:
     - SiteDesignLeftAndMainExtension
-  extra_requirements_css:
-    - silverstripe-site-designer/css/main.min.css
